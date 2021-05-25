@@ -10,7 +10,7 @@
 using namespace std; 
   
 // main function - 
-// where the execution of program begins 
+// Testing git merge!
 int main() 
 { 
     // prints hello world 
